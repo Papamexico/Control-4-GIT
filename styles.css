@@ -13,6 +13,7 @@ body {
     flex-wrap: wrap;
     gap: 20px;
     justify-content: space-evenly;
+    margin: 0 150px 150px 150px
 }
 
 .col {
@@ -27,6 +28,8 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     text-align: center;
+    width: 250%;
+    height: 250%;
 }
 
 .our-team img {
